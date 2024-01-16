@@ -1,11 +1,11 @@
-<h1 align="center">"Hello 👋! I'm Deboneil Bhattacharjee, a passionate freshman from India diving into the world of technology. Aspiring to become a tech enthusiast, I'm on a journey of continuous learning and exploration🚀</h1>
+<h1 align="center">Hello 👋! I'm Deboneil Bhattacharjee, a passionate freshman from India diving into the world of technology. Aspiring to become a tech enthusiast, I'm on a journey of continuous learning and exploration🚀</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deboneil07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deboneil07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deboneil07&radius=0&area=true&hide_title=false&hide_border=false&theme=synthwave-84&custom_title=My%20Contribution%20Graph" height="231" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deboneil07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=My%20Stats" height="168" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deboneil07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false" height="174" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deboneil07&radius=0&area=true&hide_title=false&hide_border=false&theme=synthwave-84&custom_title=My%20Contribution%20Graph" height="244" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -77,18 +77,24 @@
 
 ###
 
-<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"  />
+<img align="right" height="120" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
 
 ###
 
-<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
+<img align="left" height="120" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
+<img align="left" height="120" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
+<img align="right" height="120" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
+</div>
 
 ###
