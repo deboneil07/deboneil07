@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋! I'm Deboneil Bhattacharjee, a passionate freshman from India diving into the world of technology. Aspiring to become a tech enthusiast, I'm on a journey of continuous learning and exploration🚀</h1>
 
+<h3> Try "npx deboneil" in your CMD or BASH </h3>
+
 ###
 
 <div align="center">
