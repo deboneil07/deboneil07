@@ -1,10 +1,9 @@
 <h1 align="center">Hello 👋! I'm Deboneil Bhattacharjee, a passionate freshman from India diving into the world of technology. Aspiring to become a tech enthusiast, I'm on a journey of continuous learning and exploration🚀</h1>
 
-<h3 align="center"> Try "npx deboneil" in your CMD or BASH </h3>
-
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=deboneil07&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=deboneil07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=My%20Stats" height="168" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deboneil07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false" height="174" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deboneil07&radius=0&area=true&hide_title=false&hide_border=false&theme=synthwave-84&custom_title=My%20Contribution%20Graph" height="244" alt="activity-graph graph"  />
@@ -52,6 +51,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="42" alt="visualstudio logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="42" alt="pycharm logo"  />
+  <img width="21" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="42" alt="tailwindcss logo"  />
+  <img width="21" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="42" alt="postman logo"  />
+  <img width="21" />
+  <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=black&style=for-the-badge" height="42" alt="replit logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42" alt="windows8 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=deboneil07&theme=discord&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -75,11 +94,12 @@
   <a href="https://twitter.com/Deboneilbhatt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="twitter logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="visualstudio logo"  />
 </div>
 
 ###
 
-<img align="right" height="120" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
+<img align="left" height="120" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
 
 ###
 
@@ -87,17 +107,14 @@
 
 ###
 
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
+
+###
+
 <img align="left" height="120" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"  />
 
 ###
 
-<img align="right" height="120" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
+<img align="right" height="120" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
 
 ###
-
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
-</div>
-
-###
-
