@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋! I'm Deboneil Bhattacharjee, a passionate freshman from India diving into the world of technology. Aspiring to become a tech enthusiast, I'm on a journey of continuous learning and exploration🚀</h1>
+<h1 align="center">Hello 👋! I'm Deboneil Bhattacharjee, a dev. Yeah, thats it. I'll let my quality speak for it itself.</h1>
 
 ###
 
