@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋! I'm Deboneil Bhattacharjee, a dev. Yeah, thats it. I'll let my quality speak for it itself.</h1>
+<h1 align="center">yo its Deboneil Bhattacharjee here, a dev. Yeah, thats it.</h1>
 
 ###
 
