@@ -1,6 +1,5 @@
 <h1 align="center">yo its Deboneil Bhattacharjee here, a dev. Yeah, thats it.</h1>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/neils?style=social)](https://peerlist.io/neils)
-
+<h3> [![Peerlist](https://github-readme-badge.peerlist.io/api/neils?style=for-the-badge)](https://peerlist.io/neils) </h3>
 ###
 
 <div align="center">
